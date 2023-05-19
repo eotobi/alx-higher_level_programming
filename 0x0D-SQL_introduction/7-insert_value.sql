@@ -1,2 +1,2 @@
--- Inserts a new row in the table
-INSERT INTO first_table(id, name) VAlUES(89, 'Coding School');
+-- Insert a new row into the first_table
+INSERT INTO first_table (id, name) VALUES (89, 'Best School');
